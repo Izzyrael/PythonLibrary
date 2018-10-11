@@ -3,7 +3,7 @@
 Remember that I said we're going to be talking about other collections?
 Get ready for dictionaries
 a dictionary is different from a list because it forms a 'KeyValue Pair',
-heres an example
+here's an example
 """
 
 student = {  # the left hand side is our Key, and the right hand side is our Value, hence KeyValue
@@ -16,9 +16,18 @@ student = {  # the left hand side is our Key, and the right hand side is our Val
 # to merge dictionaries we can simply create a list of dictionaries
 
 all_students = [
-    {'name': 'mark', 'student_id': 1},
-    {'name': 'jenna', 'student_id': 2},
-    {'name': 'jill', 'student_id': 3}
+    {
+        'name': 'mark',
+        'student_id': 1
+    },
+    {
+        'name': 'jenna',
+        'student_id': 2
+    },
+    {
+        'name': 'jill',
+        'student_id': 3
+    }
 ]
 
 # but how do we get 'just the name'?
@@ -32,3 +41,18 @@ print(name)
 # run this and we get 'mark'
 # that's because we are giving our dictionary the 'Key' and it gives us the 'Value' stored under that key
 # pretty nifty right?
+
+# but what if we want to get ALL of the students name's
+# that's where the placeholders come in handy
+for student in all_students:
+    print(student['name'])
+
+# this code says for each student in all_students, store the element its looping over in student
+# that way we have access to the student's name
+# when it loops back after completing the print, student becomes the next student dictionary
+# we call this an 'object', a student has multiple things in it and can be manipulated
+
+all_students[0]['name'] = 'jimbo'
+print(all_students[0]['name'])
+
+# see? we can manipulate data INSIDE of a student OBJECT
