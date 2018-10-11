@@ -54,3 +54,56 @@ for index in range(10):
 # range( 10,        20,         5)
 # this is called 'Overloading', we don't need to use 3 arguments but its useful in case we ever need to
 
+# but what if we want to find one specific value and leave the loop cause we just need 1 thing?
+# this is where the keyword 'break' comes in
+
+for index in range(2, 12):
+    print(index)
+    if index == 7:
+        break
+
+# if we run this we see that it gets to 7 but doesn't finish at 12, why is that?
+# its because we told it to break IF the placeholder 'index' is equal to 7
+# that's right we can put IF statements inside of FOR loops, that's called 'nesting'
+
+# now lets say we want to skip a specific element, lets use student names for this example
+
+student_names.append('connor')
+student_names.append('matt')
+student_names.append('lawrence')
+
+for name in student_names:
+    if name == 'connor':
+        continue
+    print(name)
+
+# continue means 'skip the rest of this loop and CONTINUE to the next element,
+# this means that if the condition ( name is equal to connor ) is met, it will skip and NOT print
+# lets run it and see if connor shows up
+
+"""
+Now we're going to cover while loops
+while loops read as 'WHILE something is true, do this
+"""
+
+x = 0
+while x < 10:  # while x is less than 10, print 'x: {x}' and add 1 to x
+    print('x: {0}'.format(x))
+    x += 1
+print('operation complete')
+
+# just to clarify that this is looping we won't see 'operation complete' until we see 9
+# if we run this we can see it in action
+
+# WE CAN ALSO DO INFINITE LOOPS
+# these can be dangerous so be careful and get that stop button ready
+# an infinite loop is a loop that never ends
+
+no_value = None
+x = 0
+while not no_value:
+    x += 1
+    print(x)
+
+# if we run this, and stop it after a couple seconds we can see it runs for a while
+# be careful of infinite loops as they can be hard to detect
