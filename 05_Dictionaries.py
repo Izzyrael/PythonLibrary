@@ -5,13 +5,17 @@ Get ready for dictionaries
 a dictionary is different from a list because it forms a 'KeyValue Pair',
 here's an example
 """
+#          Key     Value
+student = {'name': 'mark', 'student_id': 1, 'feedback': None}
 
+# we can also write our dictionaries like this to make it easier to read
 student = {  # the left hand side is our Key, and the right hand side is our Value, hence KeyValue
     'name': 'mark',
     'student_id': 1,
     'feedback': None
 }
 
+# if you have prior programming knowledge this looks pretty similar to JSON (javascript object notation)
 # dictionaries are very useful for storing structured Data
 # to merge dictionaries we can simply create a list of dictionaries
 

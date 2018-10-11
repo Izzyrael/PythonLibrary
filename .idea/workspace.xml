@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="635616db-3884-44db-b0e0-d92148e61a83" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Connor_Mullett.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Connor_Mullett.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/05_Dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_Dictionaries.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,14 +34,14 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="26" />
-          <entry key="Python" value="13800" />
+          <entry key="Python" value="14096" />
           <entry key="Scratch" value="373" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="26" />
-          <entry key="py" value="14173" />
+          <entry key="py" value="14469" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -53,8 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/05_Dictionaries.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="57" column="56" selection-start-line="57" selection-start-column="56" selection-end-line="57" selection-end-column="56" />
+            <state relative-caret-position="132">
+              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -91,7 +90,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="416" />
     <option name="y" value="70" />
-    <option name="width" value="1378" />
+    <option name="width" value="1412" />
     <option name="height" value="953" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -305,10 +304,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="416" y="70" width="1378" height="953" extended-state="0" />
+    <frame x="416" y="70" width="1412" height="953" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15931189" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15536106" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -386,8 +385,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/05_Dictionaries.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="57" column="56" selection-start-line="57" selection-start-column="56" selection-end-line="57" selection-end-column="56" />
+        <state relative-caret-position="132">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
     </entry>
