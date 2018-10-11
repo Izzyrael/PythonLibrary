@@ -27,7 +27,7 @@ print(string_list)
 capitalize = 'capitalize'.capitalize()
 replace = 'replace'.replace('e', 'a')
 is_alpha = 'hello'.isalpha()  # this checks if the string has value, or is a truthy string
-is_digit = '123'.isdigit()  # checks to see if the string can be converted to a numerical value
+is_digit = '1'.isdigit()  # checks to see if the string can be converted to a numerical value
 
 print(capitalize)
 print(replace)
@@ -55,3 +55,15 @@ full_name_list[1] = full_name_list[1].capitalize()
 
 print(full_name_list)
 
+"""
+ SIDEBAR:
+ we can also convert variables to other types
+"""
+
+is_digit = int(is_digit)
+
+is_another_digit = 5
+
+print(is_digit + is_another_digit)
+
+# when we run this we get 6 because we converted a string to an integer
