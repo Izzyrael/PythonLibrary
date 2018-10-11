@@ -50,7 +50,7 @@ full_name_list[1] = full_name_list[1].capitalize()
 
 # the index is the specific spot an item is in a list, all lists in python start at 0
 # what we did was reassign the specific index to the capitalized version of itself inside the list
-# thats why we typed full_name_list[0/1] twice
+# that's why we typed full_name_list[0/1] twice
 # so if we print this to our console we'll see that they are now capitalized :D
 
 print(full_name_list)

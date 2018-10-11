@@ -67,3 +67,15 @@ elif is kinda like putting multiple IF's together. (note the same syntax)
 it says if bool variable is not true, we are going to do this elif here, if that fails we'll do the else statement
 you can have as many elif's as you can imagine
 """
+
+# a value can also be NONE, or have NO VALUE. zero and none are different as zero HAS A VALUE
+
+no_value_data = None
+
+if no_value_data:
+    print('it has value')
+else:
+    print('it has no value')
+
+# if we run this we see that because no_value_data is None it is 'Falsey'
+# therefore it runs the else statement
