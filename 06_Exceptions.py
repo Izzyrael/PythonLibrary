@@ -78,4 +78,21 @@ try:
 except Exception:
     print('Unknown Error')
 
+# now lets talk about 'as'
+# i think of this as capturing the statement and assigning it to a variable
+# but how does this work
 
+try:
+    number = 3 + 'string'
+except Exception as e:
+    print(e)
+
+# this captures our full exception as the variable 'e' and prints it to the console, this is a way easier to
+# figure out exactly what our exception says, instead of saying 'unknown error', make sense?
+# we will use 'as' later for importing different libraries
+
+# when we run this we see 'unsupported operand type(s) for +: 'int' and 'str''
+# that's a pretty good description of what is causing the error, it also sounds like something we can write to a log
+
+# a good question is 'when do i use exception handling?'
+# the answer is 'whenever an error can be prevalent and can potentially break our program'
