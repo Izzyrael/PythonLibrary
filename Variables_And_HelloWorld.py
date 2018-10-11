@@ -2,7 +2,7 @@
 # Comments do not get executed
 # MAKE SURE TO ADD A SPACE AFTER #
 
-# you do not need to declare data types in python
+# you do not need to declare what data type the variable will be in python unlike other languages
 # to create a variable, type the new name and give it a value
 variable_one = 5
 
