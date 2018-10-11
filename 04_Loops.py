@@ -92,6 +92,7 @@ while x < 10:  # while x is less than 10, print 'x: {x}' and add 1 to x
     x += 1
 print('operation complete')
 
+# also note the big difference in a while loop, we have to auto increment our variable we are testing
 # just to clarify that this is looping we won't see 'operation complete' until we see 9
 # if we run this we can see it in action
 
@@ -104,6 +105,18 @@ x = 0
 while not no_value:
     x += 1
     print(x)
+    break  # remove this break statement to see what an infinite loop looks like
 
 # if we run this, and stop it after a couple seconds we can see it runs for a while
 # be careful of infinite loops as they can be hard to detect
+
+# we can use the break keyword to get out of our infinite loops
+
+x = 0
+while True:  # this loop is infinite because we are not changing this True value
+    if x == 42:
+        break  # even though the loop is infinite we break out of it when x reaches 42 because the IF condition is met
+    print(x)
+    x += 1
+
+# run it and disect this code until you fully understand exactly whats going on heres
