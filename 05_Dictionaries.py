@@ -60,3 +60,36 @@ all_students[0]['name'] = 'jimbo'
 print(all_students[0]['name'])
 
 # see? we can manipulate data INSIDE of a student OBJECT
+# be careful of Key errors, if a key doesn't exist it'll throw an error
+# we can handle this by doing a .get() function, this gives us some wiggle room in case the key doesn't exist
+
+key_error = student.get('last_name', "Unknown")
+
+print(key_error)
+
+# run this and we get 'Unknown'
+# that's because it could'nt find the key 'last_name', so it gives us 'Unknown'
+
+# we can also get all the keys and all the values in our dictionary list
+# watch closely
+
+keys = all_students[0].keys()
+values = all_students[0].values()
+
+print(keys, values)
+
+# if we run this we get 2 new lists of all of our Keys and Values
+
+# if we want to delete a full KeyValue pair from our dictionary we can use the 'del' keyword
+# right now our feedback isn't doing anything so lets get rid of it
+new_student = {
+    'name': 'Connor',
+    'student_id': 5,
+    'feedback': None
+}
+
+del new_student['feedback']
+
+print(new_student)
+
+# when we run this we see that the key value pair, 'feedback': None, is gone!
