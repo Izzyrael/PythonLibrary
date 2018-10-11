@@ -34,4 +34,48 @@ print('but it still works')
 # said file, it'll throw an exception and break the execution. instead we can say 'you don't have permission
 #   to access this file'
 
+# there are many different types of exceptions in python and we'll cover a few here to get familiar
+# one other exception is a 'TypeError' exception, this happens when you try to manipulate 2 different data types
+
+# lets add our last_name key value pair
+# we can do this like so
+
+student['last_name'] = 'Mullett'
+
+# now lets write some new code to demonstrate
+
+# print('string' + 1)
+# this will throw a type error and it is why it is commented out, uncomment and run it to see the error
+
+# back to our student example lets catch the type error and handle it
+
+try:
+    last_name = student['last_name']
+    numbered_last_name = 3 + last_name
+except TypeError:
+    print('Type Error Occurred')
+print('but it still works')
+
+# run this to see what our code does
+# we see that it printed TypeError occurred
+
+# we can also have many different 'except' statements like this
+
+try:
+    last_name = student['last_name']
+    numbered_last_name = 3 + last_name
+except TypeError:
+    print('Type Error Occurred')
+except KeyError:
+    print('Key Error Occurred')
+print('but it still works')
+
+# if we don't know what exception will occur but still want to catch it we can use Exception
+# or it will catch ALL exceptions
+
+try:
+    number = 3 + 'division'
+except Exception:
+    print('Unknown Error')
+
 

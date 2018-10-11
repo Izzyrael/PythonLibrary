@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="635616db-3884-44db-b0e0-d92148e61a83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/06_Exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Connor_Mullett.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Connor_Mullett.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_Exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_Exceptions.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,14 +35,14 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="26" />
-          <entry key="Python" value="16774" />
+          <entry key="Python" value="18497" />
           <entry key="Scratch" value="373" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="26" />
-          <entry key="py" value="17147" />
+          <entry key="py" value="18870" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -52,8 +53,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/06_Exceptions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="472">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="523">
+              <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
             </state>
           </provider>
         </entry>
@@ -89,10 +90,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="508" />
+    <option name="x" value="466" />
     <option name="y" value="12" />
-    <option name="width" value="1412" />
-    <option name="height" value="953" />
+    <option name="width" value="1454" />
+    <option name="height" value="1004" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -305,15 +306,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="508" y="12" width="1412" height="953" extended-state="0" />
+    <frame x="466" y="12" width="1454" height="1004" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15536106" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1507431" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3290993" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26433915" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24853459" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -393,8 +394,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/06_Exceptions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="523">
+          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
         </state>
       </provider>
     </entry>
