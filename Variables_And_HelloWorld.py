@@ -1,4 +1,9 @@
 # a pound sign is a Single Line Comment
+"""
+this is a multi-line comment
+doo doo doo
+"""
+
 # Comments do not get executed
 # MAKE SURE TO ADD A SPACE AFTER #
 
