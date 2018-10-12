@@ -77,4 +77,15 @@ keyword_args('connor', description='a funny dude', type='person')
 
 # it replaces the kwargs['something in here'] with what we give it
 
+# SIDE BAR:
+# what if we want the user to input data...
+# there's a built in function for that, its called 'input'
 
+input_student_id = input('Enter student ID: ')
+input_student_name = input('Enter student name: ')
+# these functions will print whats in the parenthesis, and when we press enter it will take the
+# string that A USER enter through the console and store them in the variable to the left
+# so wait... that means we can use those variables in our functions
+
+add_student_with_id(input_student_name, input_student_id)
+print(students)

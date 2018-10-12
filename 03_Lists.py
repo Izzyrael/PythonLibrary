@@ -55,6 +55,12 @@ full_name_list[1] = full_name_list[1].capitalize()
 
 print(full_name_list)
 
+# we can also have negative indexes of elements, when we use negative indexes, it starts at the end of the list
+# also, the last element is [-1], NOT -0 (because python starts at 0 right?) so 0 - 1 = -1
+
+print(full_name_list[-1])
+# run this and we see the last value of our list
+
 """
  SIDEBAR:
  we can also convert variables to other types
