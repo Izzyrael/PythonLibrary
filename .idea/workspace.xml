@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="635616db-3884-44db-b0e0-d92148e61a83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/13_Classes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Constructors.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,28 +58,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="13_Classes" value="1" />
-          <entry key="py" value="13" />
+          <entry key="13_Classes" value="2" />
+          <entry key="py" value="15" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="14" />
+          <entry key="Python" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="13_Classes" value="1886" />
           <entry key="dummy" value="1" />
-          <entry key="py" value="12176" />
+          <entry key="py" value="13912" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="14062" />
+          <entry key="Python" value="15798" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -88,13 +88,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/13_Classes">
+        <entry file="file://$PROJECT_DIR$/14_Constructors.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="103" selection-start-line="31" selection-start-column="103" selection-end-line="31" selection-end-column="103" />
+            <state relative-caret-position="597">
+              <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
               <folding>
-                <marker date="1539625437049" expanded="true" signature="302:1462" ph="..." />
-                <marker date="1539625437049" expanded="true" signature="826:1462" ph="..." />
+                <marker date="1539626347391" expanded="true" signature="387:584" ph="..." />
+                <marker date="1539626347391" expanded="true" signature="1174:1230" ph="..." />
               </folding>
             </state>
           </provider>
@@ -134,12 +134,13 @@
         <option value="$PROJECT_DIR$/11_Generator_Functions_And_Yields.py" />
         <option value="$PROJECT_DIR$/12_Lambda_Functions.py" />
         <option value="$PROJECT_DIR$/13_Classes" />
+        <option value="$PROJECT_DIR$/14_Constructors.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
+    <option name="x" value="884" />
+    <option name="width" value="1043" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -165,6 +166,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Connor Mullett/Desktop/PythonProjects/PythonLibrary/13_Classes" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -185,7 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.13_Classes">
+  <component name="RunManager" selected="Python.14_Constructors">
     <configuration name="02_If_Statements" type="PythonConfigurationType" factoryName="Python">
       <module name="PythonLibrary" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -220,27 +222,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Functions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="10_Reading_and_Writing_To_Files" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonLibrary" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_Reading_and_Writing_To_Files.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -312,21 +293,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="14_Constructors" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonLibrary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_Constructors.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.02_If_Statements" />
       <item itemvalue="Python.07_Functions" />
-      <item itemvalue="Python.10_Reading_and_Writing_To_Files" />
       <item itemvalue="Python.11_Generator_Functions_And_Yields" />
       <item itemvalue="Python.12_Lambda_Functions" />
       <item itemvalue="Python.13_Classes" />
+      <item itemvalue="Python.14_Constructors" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.14_Constructors" />
         <item itemvalue="Python.13_Classes" />
         <item itemvalue="Python.12_Lambda_Functions" />
         <item itemvalue="Python.11_Generator_Functions_And_Yields" />
         <item itemvalue="Python.07_Functions" />
-        <item itemvalue="Python.10_Reading_and_Writing_To_Files" />
       </list>
     </recent_temporary>
   </component>
@@ -353,12 +355,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="884" y="0" width="1043" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.18976545" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.17676266" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3290993" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20719738" />
@@ -490,11 +492,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/13_Classes">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="103" selection-start-line="31" selection-start-column="103" selection-end-line="31" selection-end-column="103" />
+        <state relative-caret-position="255">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding>
             <marker date="1539625437049" expanded="true" signature="302:1462" ph="..." />
             <marker date="1539625437049" expanded="true" signature="826:1462" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/585342178/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1866">
+          <caret line="815" column="8" selection-start-line="815" selection-start-column="8" selection-end-line="815" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14_Constructors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+          <folding>
+            <marker date="1539626347391" expanded="true" signature="387:584" ph="..." />
+            <marker date="1539626347391" expanded="true" signature="1174:1230" ph="..." />
           </folding>
         </state>
       </provider>
