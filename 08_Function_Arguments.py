@@ -87,5 +87,5 @@ input_student_name = input('Enter student name: ')
 # string that A USER enter through the console and store them in the variable to the left
 # so wait... that means we can use those variables in our functions
 
-add_student_with_id(input_student_name, input_student_id)
+add_student_with_id(input_student_name, int(input_student_id))
 print(students)
