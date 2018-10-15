@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="635616db-3884-44db-b0e0-d92148e61a83" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/12_Lambda_Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/12_Lambda_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_Classes" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +58,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="13_Classes" value="1" />
           <entry key="py" value="13" />
           <entry key="txt" value="1" />
         </counts>
@@ -65,11 +66,12 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="13" />
+          <entry key="Python" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="13_Classes" value="1886" />
           <entry key="dummy" value="1" />
           <entry key="py" value="12176" />
         </counts>
@@ -77,7 +79,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="12176" />
+          <entry key="Python" value="14062" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -86,12 +88,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/12_Lambda_Functions.py">
+        <entry file="file://$PROJECT_DIR$/13_Classes">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+            <state relative-caret-position="527">
+              <caret line="31" column="103" selection-start-line="31" selection-start-column="103" selection-end-line="31" selection-end-column="103" />
               <folding>
-                <marker date="1539619637240" expanded="true" signature="382:591" ph="..." />
+                <marker date="1539625437049" expanded="true" signature="302:1462" ph="..." />
+                <marker date="1539625437049" expanded="true" signature="826:1462" ph="..." />
               </folding>
             </state>
           </provider>
@@ -130,6 +133,7 @@
         <option value="$PROJECT_DIR$/10_Reading_and_Writing_To_Files.py" />
         <option value="$PROJECT_DIR$/11_Generator_Functions_And_Yields.py" />
         <option value="$PROJECT_DIR$/12_Lambda_Functions.py" />
+        <option value="$PROJECT_DIR$/13_Classes" />
       </list>
     </option>
   </component>
@@ -181,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.12_Lambda_Functions">
+  <component name="RunManager" selected="Python.13_Classes">
     <configuration name="02_If_Statements" type="PythonConfigurationType" factoryName="Python">
       <module name="PythonLibrary" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -216,27 +220,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Functions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="09_Nested_Functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonLibrary" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_Nested_Functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -308,21 +291,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="13_Classes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonLibrary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13_Classes" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.02_If_Statements" />
       <item itemvalue="Python.07_Functions" />
-      <item itemvalue="Python.09_Nested_Functions" />
       <item itemvalue="Python.10_Reading_and_Writing_To_Files" />
       <item itemvalue="Python.11_Generator_Functions_And_Yields" />
       <item itemvalue="Python.12_Lambda_Functions" />
+      <item itemvalue="Python.13_Classes" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.13_Classes" />
         <item itemvalue="Python.12_Lambda_Functions" />
         <item itemvalue="Python.11_Generator_Functions_And_Yields" />
         <item itemvalue="Python.07_Functions" />
         <item itemvalue="Python.10_Reading_and_Writing_To_Files" />
-        <item itemvalue="Python.09_Nested_Functions" />
       </list>
     </recent_temporary>
   </component>
@@ -476,10 +480,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/12_Lambda_Functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+        <state relative-caret-position="476">
+          <caret line="28" column="57" lean-forward="true" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
           <folding>
             <marker date="1539619637240" expanded="true" signature="382:591" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13_Classes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="103" selection-start-line="31" selection-start-column="103" selection-end-line="31" selection-end-column="103" />
+          <folding>
+            <marker date="1539625437049" expanded="true" signature="302:1462" ph="..." />
+            <marker date="1539625437049" expanded="true" signature="826:1462" ph="..." />
           </folding>
         </state>
       </provider>
