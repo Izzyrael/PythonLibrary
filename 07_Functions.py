@@ -40,7 +40,7 @@ add_student('jimmy')
 def get_students_titlecase():
     students_titlecase = []
     for student in students:
-        students_titlecase = student.title()
+        students_titlecase.append(student.title())
     return students_titlecase  # the return means 'give this value back to whoever called the function
 
 

@@ -39,11 +39,12 @@ def read_file():
 
 # now lets get into the code that uses the functions above
 read_file()  # first we read the file to see all of the students already there
+print(students)
 student_name = input('Enter name: ')  # now a couple of input statements to get user input
 student_id = input('Enter ID: ')
 
 # and now we call our function add_student() because we have the information from our user
-add_student(student_name, student_id)
+add_student(student_name, int(student_id))
 save_file(student_name)  # and save the file, every time we open this file we will have our students saved
 
 # give it a run and see what happens when you enter a student, and re run your code
