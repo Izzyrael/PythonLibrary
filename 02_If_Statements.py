@@ -9,7 +9,7 @@ lets do that now
 truthy_num = 15
 
 if truthy_num:
-    print('it is truthey')
+    print('it is truthy')
 
 """
 notice the indent and the colon, python doesnt use square brackets. a good way to remember this is if you see a colon
@@ -40,7 +40,7 @@ else:
 
 """
 the 'not' statement means we are checking to see if something is NOT true,
-i also threw in the else statement, when we have an IF we can put in code that fires IF the statement is'nt true,
+i also threw in the else statement, when we have an IF we can put in code that fires IF the statement isn't true,
 else handles all other cases, its like having to pick between 2 doors, you can't go through both
 
 run this code and see what we get
