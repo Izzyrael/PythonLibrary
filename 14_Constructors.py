@@ -25,7 +25,7 @@ print(students)
 print(new_student)  # <- run this and see what happens
 # we get __main__.Student object at 0x0369FDD0
 # this code at the end is the memory address for our student object
-# but we don't want that, we can do something called an 'override' method
+# but we don't want that, we can use something called an 'override' method
 # lets make a new class and do that
 
 
