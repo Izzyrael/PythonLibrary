@@ -38,6 +38,6 @@ jenna = HighSchoolStudent('jenna', 8)
 
 import student as stdt
 
-jimmy = stdt.Student()
+jimmy = stdt.Student('jimmy', 55)
 # now our module is named 'stdt'
 # it reads 'import this thing and call it this'

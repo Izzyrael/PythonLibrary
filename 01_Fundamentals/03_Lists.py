@@ -36,9 +36,6 @@ print(is_digit)
 
 # run this and see how the code works
 
-# now what if we have a user enter their name, we want to capitalize it right?
-# we can do this with lists
-
 full_name = 'billy bob'
 full_name_list = full_name.split(' ')
 

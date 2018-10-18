@@ -1,0 +1,17 @@
+
+Challenge 1:
+
+    Write a program that switches the value of two variables 'a' and 'b'
+    hint: you can use temporary variables to hold values
+
+
+Challenge 2:
+
+    Write a program that has one variable 'n = 7', that checks to see if n is less than 5. if n IS NOT less than 5,
+    it should check to see if n is not greater than 8. if that is true then it should say 'the value is less than 8'
+
+
+Challenge 3:
+
+    Write a program that converts the string 'abcabcabcabcabc' into the list ['ab', 'ab', ...] and print it to the
+    console
