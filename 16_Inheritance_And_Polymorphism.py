@@ -34,3 +34,38 @@ print(dog.speak())
 # we could also continue the chain and have classes that derive from 'Dog', but that's out of scope for now
 
 # that is inheritance on a basic level, now lets talk about 'Polymorphism'
+
+# polymorphism simply is changing similar behavior between classes
+# let's make a new child class of Animal to see how this works
+
+
+class Bird(Animal):
+
+    def speak(self):
+        return 'tweet'
+
+
+bird = Bird()
+print(bird.speak())
+
+# notice how we already have a speak function defined in our parent class 'Animal', we can OVERRIDE that method in our
+# parent class and change the behavior
+
+# give it a run and see what happens
+
+# but what if we want to use the parent class' method? lets make a new child class  of 'Animal' and change it up
+
+
+class Turtle(Animal):
+
+    def speak(self):
+        return super().speak() + ' and Im a turtle'  # the 'super()' keyword means 'refer to the parent class'
+        # it works the same as the 'self' keyword
+
+
+# now lets make a turtle instance and see what happens when we print the turtles speak() function
+
+turtle = Turtle()
+print(turtle.speak())
+
+# we can use the super() keyword for all attributes, functions, and constructors in a derived/child class
