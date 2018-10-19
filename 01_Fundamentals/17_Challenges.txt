@@ -34,3 +34,12 @@ Challenge 5:
 Challenge 6:
 
     Write a program that IGNORES an exception and 'PASSES' to print 'it worked' at the very end, after the exception
+
+
+Challenge 7:
+
+    Write a function that takes in a string and returns the string broken into a list split by a space
+
+
+Challenge 8:
+
