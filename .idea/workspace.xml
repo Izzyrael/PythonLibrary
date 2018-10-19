@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="635616db-3884-44db-b0e0-d92148e61a83" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/PythonLibrary.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonLibrary.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Fundamentals/01_Variables_And_HelloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Fundamentals/01_Variables_And_HelloWorld.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Fundamentals/02_If_Statements.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Fundamentals/02_If_Statements.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Fundamentals/03_Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Fundamentals/03_Lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Fundamentals/04_Loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Fundamentals/04_Loops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Fundamentals/05_Dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Fundamentals/05_Dictionaries.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Fundamentals/06_Exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Fundamentals/06_Exceptions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Fundamentals/07_Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Fundamentals/07_Functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Modules/_README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/03_Modules/_README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Modules/hs_student.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Modules/hs_student.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Modules/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Modules/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Modules/student.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Modules/student.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_Challenge_Solutions/Challenge1_Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentals_Challenge_Solutions/Challenge1_Solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_Challenge_Solutions/Challenge2_Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentals_Challenge_Solutions/Challenge2_Solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_Challenge_Solutions/Challenge3_Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentals_Challenge_Solutions/Challenge3_Solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_Challenge_Solutions/Challenge4_Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentals_Challenge_Solutions/Challenge4_Solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_Challenge_Solutions/Challenge5_Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentals_Challenge_Solutions/Challenge5_Solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_Challenge_Solutions/Challenge6_Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentals_Challenge_Solutions/Challenge6_Solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_Challenge_Solutions/Challenge7_Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentals_Challenge_Solutions/Challenge7_Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -141,13 +124,21 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1733404562">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/01_Fundamentals/07_Functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="723">
+            <state relative-caret-position="695">
               <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
             </state>
           </provider>
@@ -223,7 +214,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="177" />
-    <option name="y" value="18" />
+    <option name="y" value="27" />
     <option name="width" value="1533" />
     <option name="height" value="982" />
   </component>
@@ -262,7 +253,7 @@
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="animal&#9;FILE&#9;file://C:/Users/Connor Mullett/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/animal&#10;packages&#9;FILE&#9;file://C:/Users/Connor Mullett/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/pip/_vendor/urllib3/packages" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/newvenv" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -285,7 +276,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Challenge7_Solution">
+  <component name="RunManager" selected="Python.07_Functions">
     <configuration name="01_Variables_And_HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonLibrary" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -328,7 +319,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Challenge4_Solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="07_Functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonLibrary" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -336,11 +327,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Challenge_Solutions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Fundamentals" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Challenge_Solutions/Challenge4_Solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_Fundamentals/07_Functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -414,19 +405,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.02_If_Statements" />
-      <item itemvalue="Python.Challenge4_Solution" />
       <item itemvalue="Python.01_Variables_And_HelloWorld" />
       <item itemvalue="Python.Challenge5_Solution" />
       <item itemvalue="Python.Challenge6_Solution" />
       <item itemvalue="Python.Challenge7_Solution" />
+      <item itemvalue="Python.07_Functions" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.07_Functions" />
         <item itemvalue="Python.Challenge7_Solution" />
         <item itemvalue="Python.Challenge6_Solution" />
         <item itemvalue="Python.Challenge5_Solution" />
         <item itemvalue="Python.01_Variables_And_HelloWorld" />
-        <item itemvalue="Python.Challenge4_Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -453,12 +444,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="177" y="18" width="1533" height="982" extended-state="0" />
+    <frame x="177" y="27" width="1533" height="982" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.19639279" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.19602649" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32845744" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.20657277" />
@@ -479,20 +470,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
     <entry file="file://$PROJECT_DIR$/scratch.py" />
     <entry file="file://$PROJECT_DIR$/07_Other_Data_Types.py" />
     <entry file="file://$PROJECT_DIR$/08_Function_Arguments.py" />
@@ -502,13 +481,7 @@
     <entry file="file://$PROJECT_DIR$/10_Students.txt" />
     <entry file="file://$PROJECT_DIR$/11_Yields.py" />
     <entry file="file://$PROJECT_DIR$/12_Lambda_Functions.py" />
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/585342178/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1866">
-          <caret line="815" column="8" selection-start-line="815" selection-start-column="8" selection-end-line="815" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/585342178/builtins.py" />
     <entry file="file://$PROJECT_DIR$/13_Classes" />
     <entry file="file://$PROJECT_DIR$/01_Variables_And_HelloWorld.py" />
     <entry file="file://$PROJECT_DIR$/05_Dictionaries.py" />
@@ -606,9 +579,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-          <folding>
-            <marker date="1539957368599" expanded="true" signature="32:88" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -663,7 +633,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/01_Fundamentals/07_Functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="723">
+        <state relative-caret-position="695">
           <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
         </state>
       </provider>
