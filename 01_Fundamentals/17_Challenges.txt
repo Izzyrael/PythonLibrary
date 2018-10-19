@@ -29,3 +29,8 @@ Challenge 5:
     Write a program that looks through the dictionary my_dict = { 'a': 1, 'b': 2, 'c': 3, 'd': 4} and outputs
     my_dict = {'a': 1, 'b': 0, 'c': 3, 'd': 0}
     Hint: 01_Variables_And_HelloWorld has something that will help find even numbers, and google is your friend
+
+
+Challenge 6:
+
+    Write a program that IGNORES an exception and 'PASSES' to print 'it worked' at the very end, after the exception
