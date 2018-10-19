@@ -42,3 +42,27 @@ hello_world = variable_one + c
 print(hello_world)
 
 # run this in your console and see what happens
+
+# MATH OPERATORS:
+# in python we have close to the same syntax for doing math with our variables,
+# the following diagram will show you what each symbol means
+
+# + plus
+# - minus
+# / divide
+# * multiply
+# % MODULUS ( it means give the remainder as the answer 5 % 2 = 1
+# ++ increment by one
+# -- decrement by one
+
+# we also have the addition/subtraction assignment operators
+# lets look at this line of code
+
+assign = 15
+assign += 5
+
+print(assign)
+
+# we get 20! but before we would've had to write it like this
+# assign = assign + 5
+# we just get rid of the middle part and smush it together, they run the exact same but one is shorter
