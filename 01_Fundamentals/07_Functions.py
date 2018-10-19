@@ -15,7 +15,7 @@ def add_student(name):
 
 
 # notice the parenthesis before the colon, this is what we 'give' our function
-# we can have as many variables as we want in there, they are called parameters
+# we can have as many variables (or lack there of) as we want in there, they are called parameters
 # so whenever we do add_student() and give it a name, it will add that name to our list
 # lets try it
 
