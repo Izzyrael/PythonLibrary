@@ -22,3 +22,10 @@ Challenge 4:
     Write a program that loops to a range of 1000 but only prints the number its on every 100 loops until its done
     hint: use a counter variable that keeps track of every loop, and reset the value when it prints. After the loop
     it should print 'Done'
+
+
+Challenge 5:
+
+    Write a program that looks through the dictionary my_dict = { 'a': 1, 'b': 2, 'c': 3, 'd': 4} and outputs
+    my_dict = {'a': 1, 'b': 0, 'c': 3, 'd': 0}
+    Hint: 01_Variables_And_HelloWorld has something that will help find even numbers, and google is your friend
