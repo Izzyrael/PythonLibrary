@@ -50,3 +50,5 @@ def get_students_titlecase():
 student_list = get_students_titlecase()
 
 print(student_list)
+
+# Complete Challenge 7

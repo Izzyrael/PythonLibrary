@@ -70,3 +70,5 @@ is_another_digit = 5
 print(is_digit + is_another_digit)
 
 # when we run this we get 6 because we converted a string to an integer
+
+# Complete challenge 3

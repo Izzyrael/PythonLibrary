@@ -96,3 +96,5 @@ except Exception as e:
 
 # a good question is 'when do i use exception handling?'
 # the answer is 'whenever an error can be prevalent and can potentially break our program'
+
+# Complete Challenge 6

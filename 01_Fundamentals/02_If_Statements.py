@@ -79,3 +79,5 @@ else:
 
 # if we run this we see that because no_value_data is None it is 'Falsey'
 # therefore it runs the else statement
+
+# Complete Challenge 2 in 17_Challenges.txt

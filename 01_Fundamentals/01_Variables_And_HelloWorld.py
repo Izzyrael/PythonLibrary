@@ -66,3 +66,5 @@ print(assign)
 # we get 20! but before we would've had to write it like this
 # assign = assign + 5
 # we just get rid of the middle part and smush it together, they run the exact same but one is shorter
+
+# when you feel ready try and complete Challenge 1 in 17_challenges.txt
