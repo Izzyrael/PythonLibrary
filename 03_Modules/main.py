@@ -1,6 +1,4 @@
 
-# BE SURE TO GO THROUGH THE README IF YOU HAVEN'T BEFORE OPENING THIS FILE
-
 # in this lesson we are going to go over how we can use imports to split
 # our python projects into 'modules'
 # or more simply how we can make our files 'talk' to each other
